@@ -11,11 +11,13 @@
 #### Какие сетевые службы в ней разрешены?
 Cетевые службы в ней разрешены указаны в колонуке SERVICE
 ![1.png](https://github.com/khramulka/13-01.md/blob/main/img/sc1.png)
-```
+
 #### Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
-```
+
 https://www.exploit-db.com/exploits/31965
+
 https://www.exploit-db.com/exploits/30020
+
 https://www.exploit-db.com/exploits/6122
 
 ### Задание 2
