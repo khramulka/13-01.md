@@ -17,7 +17,7 @@ Cетевые службы в ней разрешены указаны в кол
 https://www.exploit-db.com/exploits/31965
 https://www.exploit-db.com/exploits/30020
 https://www.exploit-db.com/exploits/6122
-```
+
 ### Задание 2
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
 
